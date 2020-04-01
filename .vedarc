@@ -1,0 +1,11 @@
+{
+  "audio": true,
+  //"OSC": 51000,
+  //"camera": true,
+
+  IMPORTED: {
+    image: {
+      "PATH": "texture01.png",
+    },
+  },
+}
